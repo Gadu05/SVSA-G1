@@ -1,0 +1,3 @@
+[submodule "SVSA/Modulo"]
+	path = SVSA/Modulo
+	url = https://github.com/fravss/svsa-tp.git
