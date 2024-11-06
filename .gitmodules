@@ -1,6 +1,3 @@
-[submodule "SVSA/Desenvolvimento/3.Implementacao/SVSA-ep"]
-	path = SVSA/Desenvolvimento/3.Implementacao/SVSA-ep
-	url = https://github.com/fravss/svsa-ep.git
 [submodule "SVSA/Desenvolvimento/3.Implementacao/SVSA-ct"]
 	path = SVSA/Desenvolvimento/3.Implementacao/SVSA-ct
 	url = https://github.com/fravss/svsa-ct.git
