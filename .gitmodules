@@ -1,6 +1,6 @@
 [submodule "SVSA/SVSA-ct"]
 	path = SVSA/SVSA-ct
 	url = https://github.com/fravss/svsa-ct.git
-[submodule "SVSA/SVSA-tp"]
-	path = SVSA/SVSA-tp
-	url = https://github.com/fravss/svsa-tp.git
+[submodule "SVSA/SVSA-ep"]
+	path = SVSA/SVSA-ep
+	url = https://github.com/fravss/svsa-ep.git
